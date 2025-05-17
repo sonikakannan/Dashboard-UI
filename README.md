@@ -1,38 +1,15 @@
-# Dashboard-UI
+# 🧪 React Frontend Developer – Test Assignment
 
-A modern, feature-rich dashboard and content management interface built with **React** and **Vite**, designed for managing, generating, and publishing articles across various categories and platforms.
+This project is a responsive **Dashboard UI** built with **React** and **shadcn/ui** components. The purpose is to demonstrate UI structure, reusability of components, responsiveness, and clean code practices.
 
----
+## 🔧 What I Built
 
-## Features
+A basic yet responsive **Dashboard UI** that includes:
 
-- **Article Management:**  
-  - Categorize articles as Generated, Published, Scheduled, or Archived.
-  - Search, filter, and paginate through articles.
-  - Bulk actions on multiple articles.
-  - View and manage article details (title, keyword, traffic, word count, creation date).
-
-- **Article Generation & Publishing:**  
-  - Create new articles manually or using AI-powered keyword-to-article generation.
-  - Import keywords (e.g., from Google Search Console).
-  - Generate articles in bulk or for longtail keywords.
-  - Schedule articles for future publication.
-
-- **Project & Keyword Management:**  
-  - Organize articles by keyword projects.
-  - Steal competitor keywords for content inspiration.
-
-- **Integrations:**  
-  - Publish articles directly to external platforms (e.g., WordPress, GitHub, web).
-  - Manage internal links, backlinks, and other site integrations.
-
-- **User Experience:**  
-  - Responsive sidebar navigation with customizable sections.
-  - Domain selection for multi-site management.
-  - Profile management and subscription handling.
-  - Help Center, Updates, Live Chat Support.
-
----
+- ✅ Sidebar navigation
+- ✅ Data table with **dummy data**, **filters**, and **sorting options**
+- ✅ Responsive layout using **shadcn/ui** blocks
+- ✅ Clean and organized file structure
 
 ## Tech Stack
 
@@ -68,8 +45,8 @@ A modern, feature-rich dashboard and content management interface built with **R
    yarn dev
    ```
 
-4. **Visit:**  
-   [http://localhost:5173](http://localhost:5173) (default Vite port)
+## 🔗 Live Demo
+   [https://dashboard-ui-n851.onrender.com](https://dashboard-ui-n851.onrender.com)
 
 ---
 
@@ -91,11 +68,3 @@ A modern, feature-rich dashboard and content management interface built with **R
 
 ---
 
-## License
-
-[MIT](LICENSE)
-
----
-
-> **Note:**  
-> This project is a work in progress and may require further setup for production use, including authentication, deployment configuration, and securing integrations.
