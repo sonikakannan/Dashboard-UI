@@ -17,8 +17,6 @@ A basic yet responsive **Dashboard UI** that includes:
   - [React](https://reactjs.org/) (with [Vite](https://vitejs.dev/) for rapid development)
   - [React Router](https://reactrouter.com/) (multi-page navigation)
   - [Tailwind CSS](https://tailwindcss.com/) (utility-first styling)
-  - [clsx](https://github.com/lukeed/clsx) and [tailwind-merge](https://github.com/dcastil/tailwind-merge) (class name utilities)
-  - [Radix UI Primitives](https://www.radix-ui.com/) (unstyled, accessible components)
   - [Lucide Icons](https://lucide.dev/), [React Icons](https://react-icons.github.io/react-icons/)
 
 ---
